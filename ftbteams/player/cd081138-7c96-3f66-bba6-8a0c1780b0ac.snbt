@@ -1,0 +1,28 @@
+{
+	id: "cd081138-7c96-3f66-bba6-8a0c1780b0ac"
+	type: "player"
+	player_name: "Elaina"
+	ranks: {
+		cd081138-7c96-3f66-bba6-8a0c1780b0ac: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Elaina"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF65"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [ ]
+	extra: { }
+}
